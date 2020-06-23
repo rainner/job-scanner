@@ -1,3 +1,7 @@
+# App
+src/config.js
+json/posts.json
+
 # Logs
 logs
 *.log
